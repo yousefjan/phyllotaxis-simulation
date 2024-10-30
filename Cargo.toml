@@ -1,0 +1,8 @@
+[package]
+name = "phyllotaxis_simulation"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy = { version = "0.13", features = ["png"] }
+rand = "0.8"
