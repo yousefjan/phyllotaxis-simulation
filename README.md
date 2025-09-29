@@ -16,5 +16,9 @@ Prerequisites: Rust toolchain and a Vulkan/Metal/DirectX backend (wgpu). On macO
 cargo run --release
 ```
 
+## Example
+
+![Phyllotaxis Simulation Example](example.png)
+
 ## Notes
 - This is a simplified, plausible implementation inspired by Smith et al. (PNAS 2006), not a quantitative reproduction. Parameters are exposed in code (`SimParams`).
